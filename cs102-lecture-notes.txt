@@ -10,4 +10,8 @@
 
 May 13 - VS code, markdown instructions
 
-	Today we first went through the Visual Studio Code editor's installation process. This editor has proved to be very useful for editing markdown, HTML, etc. It also has many plugins which are quite useful while coding. Then we went through Markdown which is a lightweight markup language. It is mostly used for formating text using a plain text editor. A markdown text can be converted into an HTML code in a simple way. It mostly provides only the basic structures and features of HTML. '#' is used for the heading (Section). The more the number of hashes the smaller the heading ie. as number of # increase the text becomes smaller. 
+	Today we first went through the Visual Studio Code editor's installation process. This editor has proved to be very useful for editing markdown, HTML, etc.
+ It also has many plugins which are quite useful while coding. Then we went through Markdown which is a lightweight markup language. It is mostly used for formating
+ text using a plain text editor. A markdown text can be converted into an HTML code in a simple way. It mostly provides only the basic structures and features of HTML.
+ '#' is used for the heading (Section). The more the number of hashes the smaller the heading ie. as number of # increase the text becomes smaller.
+ 
