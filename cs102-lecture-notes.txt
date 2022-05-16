@@ -1,0 +1,8 @@
+ A few git commands,
+1. git clone <ssh_link_of repostory> --> It is used to clone a repostory to your local system where one can make some changes 
+   and commit and push the changes to the main branch.
+2. git status --> It can be used to check the current status of the git directory. It shows the changes in one's work tree.
+3. git remote -v --> It can be used to check the version one has fetched and the version one would push to the main branch. 
+   It is basically the URL of the repostory.
+4. git add <file_name> --> It can be used to add (stage) a file to be tracked.
+5. git commit -m "Some_description" --> It can be used to commit the changes to the branch one is working on with some message.
