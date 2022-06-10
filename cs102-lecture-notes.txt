@@ -15,3 +15,5 @@ May 13 - VS code, markdown instructions
  text using a plain text editor. A markdown text can be converted into an HTML code in a simple way. It mostly provides only the basic structures and features of HTML.
  '#' is used for the heading (Section). The more the number of hashes the smaller the heading ie. as number of # increase the text becomes smaller.
  
+ This is my lab-3 evaluation.
+ 
